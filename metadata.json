@@ -1,0 +1,6 @@
+{
+  "name": "CampusLedger — Student Expense & Allowance Tracker",
+  "description": "Student expense, pocket money, and monthly budget tracker with daily safe spend calculation, interactive HTML5 Canvas category donut chart, CSV export, and full-stack viva API documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
